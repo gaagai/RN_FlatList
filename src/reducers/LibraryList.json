@@ -56,7 +56,7 @@
     },
     {
         "id": 11,
-        "title": "Last Mind",
-        "description": "My Mind is not a for the browser and node.js. With Axios, you can make XMLHttpRequests from the browser or Node with the full Promise Api."
+        "title": "Last Item",
+        "description": "My Last Item in the List. browser and node.js. With Axios, you can make XMLHttpRequests from the browser or Node with the full Promise Api."
     }
 ]
